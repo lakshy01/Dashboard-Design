@@ -1,0 +1,13 @@
+.back {
+    background-image: url('./Purple\ White.jpg');
+    margin-top: 10px;
+}
+
+.back2  {
+    background-image: url('./Predawn.jpg') !important;
+}
+
+.back3:hover {
+    cursor: pointer !important;
+    font-size: large !important;
+}
